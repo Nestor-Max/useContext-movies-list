@@ -1,2 +1,4 @@
 # useContext-movies-list
 This project is a React application that uses the useContext hook and the react-hook-form library to upload and display a list of movies with their names and prices.
+
+This project is a React application that allows the user to upload and display a list of movies with their names and prices. The project uses the useContext hook to create and access a global state for the movie data, and the react-hook-form library to create and reset the form for adding new movies. The project also uses some custom styles and components to make the user interface more appealing and user-friendly. The project demonstrates how to use the useContext hook to share data across components without prop drilling, and how to use the react-hook-form library to simplify and validate the form handling. The project is suitable for beginners who want to learn more about React hooks and forms.
